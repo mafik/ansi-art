@@ -6,13 +6,6 @@ namespace maf {
 
 class AnsiArt {
 public:
-  enum ColorPalette {
-    COLOR_24_BIT = 0,
-    COLOR_8_BIT = 1,
-    COLOR_WHITE_BIT = 2,
-    COLOR_BLACK_BIT = 3,
-  };
-
   static AnsiArt *New();
   
   virtual ~AnsiArt(){};
@@ -25,7 +18,6 @@ public:
   virtual void CancelRender() = 0;
 
   int width = 80;
-  ColorPalette color_palette = COLOR_24_BIT;
   std::string forbidden_characters = "";
 
   std::string glyphs_utf8;       // populated by LoadTTF

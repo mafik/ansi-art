@@ -16,7 +16,7 @@ Original [ANSI Art](https://en.wikipedia.org/wiki/ANSI_art) is typically limited
     element of a <a href="https://www.youtube.com/watch?v=4G_cthFZeJ8">ncurses</a> interface or even for
     <a href="https://www.youtube.com/watch?v=MJZvWgcxV0M">animation</a>.</p>
   <p>Here are some examples of what can be achieved:</p>
-  <img src="sample1.png"><img src="sample2.png"><img src="sample3.png"><img src="sample4.png">
+  <img src="sample1.webp"><img src="sample2.webp"><img src="sample3.webp"><img src="sample4.webp">
 
 ## Usage
 
@@ -26,7 +26,7 @@ The only dependency is FreeType. On Debian-based distributions it can be install
 
 In order to try out the library, run `./run.sh` and observe the results in your terminal:
 
-<img src="example-result.png">
+<img src="example-result.webp">
 
 Example usage can be found in `example.cc`:
 

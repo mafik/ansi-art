@@ -9,7 +9,7 @@ Original [ANSI Art](https://en.wikipedia.org/wiki/ANSI_art) is typically limited
     character set used by the original <a href="https://www.youtube.com/watch?v=_mZBa3sqTrI&t=1061s">IBM PC</a>.</p>
   <p>Times have changed. Modern terminal emulators support 24-bit RGB colors & can display arbitrary
     Unicode characters. This opens entirely new possibilities for the art that can be displayed in the terminal.</p>
-  <p><audio controls style="float: right"><source src="624425__foleyhaven__fire-burning-03.ogg" type="audio/ogg"></audio>Let's call this 24-bit, Unicode-capable version of ANSI Art, an <strong>ANSI🔥Art</strong> (pronounced
+  <p>Let's call this 24-bit, Unicode-capable version of ANSI Art, an <strong>ANSI🔥Art</strong> (pronounced
     just like a regular ANSI Art, although with a sound of blazing fire in the background).</p>
   <p>ANSI🔥Art can be used in the output of interactive <a href="https://www.youtube.com/watch?v=_oHByo8tiEY">CLI</a>
     commands, <a href="http://mewbies.com/how_to_customize_your_console_login_message_tutorial.htm">SSH MOTD</a>, an
